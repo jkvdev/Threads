@@ -1,6 +1,5 @@
 "use server";
 
-// comment
 import { FilterQuery, SortOrder } from "mongoose";
 
 import Community from "../models/community.model";
